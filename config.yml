@@ -1,4 +1,4 @@
-baseURL: "https://acdlbs.github.io/aidendowell"
+baseURL: "https://acdlbs.github.io/"
 title: //Acdlbs
 paginate: 5
 theme: "PaperMod"
@@ -90,9 +90,6 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    faviconTags: | # just copy paste all the tags here (Hugo templating supported). Also, ensure that you have "purpose": "maskable" set for one icon in your site.webmanifest file (helps for pwa). Use https://realfavicongenerator.net, it's great
-        <link rel="icon" type="image/png" sizes="32x32" href="{{ site.BaseURL }}/static/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="{{ site.BaseURL }}/static/favicon-16x16.png">
     # assets:
     #    favicon: "/static/favicon.ico"
     #    favicon16x16: "/static/favicon-16x16.png"
