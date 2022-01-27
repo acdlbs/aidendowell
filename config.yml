@@ -72,7 +72,7 @@ params:
     homeInfoParams:
         Title: "Welcome to my blog!"
         Content: "I write about code and mountains.\n\nThis is a blog of things I find interesting and want to share with the world!\n\n
-            I’m currently interesed in functional programming/lisp (mostly Clojure) and GPU accelerated computing."
+            I’m currently interesed in functional programming/lisp"
     socialIcons:
         - name: github
           url: "https://github.com/acdlbs"	  
