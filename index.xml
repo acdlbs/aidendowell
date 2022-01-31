@@ -37,7 +37,8 @@ My time at the University of Florida At UF, I have been active as the project ma
       <guid>https://www.aidendowell.com/projects/</guid>
       <description>Open Source Contributions MirthSync MirthSync is a command line tool for synchronizing Mirth Connect code between servers. I Added a flag and logic to allow users to choose whether to push the config map and updated the test cases that expected the config map to be pushed. https://github.com/SagaHealthcareIT/mirthsync/pull/22
 Projects Boids Flocking Algorithm in Cuda Implemented the boids flocking algorithm in both cuda and native c++
-This website! Created a static web app using clojure, ring, compojure, and cryogen</description>
+Implementation video
+ WAD filesystem mounter Developed a library to read a WAD file and create adirectory and filesystem structure from it.</description>
     </item>
     
   </channel>
