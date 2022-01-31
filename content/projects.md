@@ -16,9 +16,25 @@ I Added a flag and logic to allow users to choose whether to push the config map
 
 Implemented the boids flocking algorithm in both cuda and native c++
 
+Implementation video
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=Bb2IkK3Yya0">
+</iframe>
+
+<h4><a href="https://www.youtube.com/watch?v=oyE0lTb4JwE">WAD filesystem mounter</a></h4>
+
+Developed a library to read a <a href="https://doomwiki.org/wiki/WAD">WAD</a> file and create adirectory and filesystem structure from it. A userspace daemon was also implemented (via FUSE) to access the directory structure once mounted
+
+<a href="https://drive.google.com/file/d/140LVsaff_vXHHhzzs6uVkNAfj8505FTY/view?usp=sharing">Click for full description</a>
+
+<h4><a href="https://acdlbs.github.io/VisualReactPathing/">Visualization of Pathing Algorithms</a></h4>
+
+Created a static website using ReactJS to help visualize the process of various pathing algorithms (Dijkstra, A*)
+
 <h4><a href="https://github.com/acdlbs/aidendowell">This website!</a></h4>
 
-Created a static web app using clojure, ring, compojure, and cryogen
+Created a static web app using hugo
 
 Full stack developer 
 
@@ -32,8 +48,7 @@ Created a web-scraper using jsoup to scrape magic seaweed’s wave data and orga
 
 <h4><a href="https://github.com/Group-Bee/FaceR-Web">Facer Lock Website</a></h4>
 
-Created a node web app with e-commerce capabilities  
-
-Full stack developer 
+Worked on a team using Scrum Agile Methodologies to create ReactJS web app with ecommerce capabilities for client
+Contributed in bi-weekely standup meetings
 
 </div>
